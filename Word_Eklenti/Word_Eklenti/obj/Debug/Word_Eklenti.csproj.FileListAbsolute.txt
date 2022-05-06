@@ -1,0 +1,17 @@
+C:\Users\AYDENİZ\Source\Repos\Word_Eklenti\Word_Eklenti\bin\Debug\Word_Eklenti.dll
+C:\Users\AYDENİZ\Source\Repos\Word_Eklenti\Word_Eklenti\bin\Debug\Word_Eklenti.pdb
+C:\Users\AYDENİZ\Source\Repos\Word_Eklenti\Word_Eklenti\bin\Debug\Word_Eklenti.dll.manifest
+C:\Users\AYDENİZ\Source\Repos\Word_Eklenti\Word_Eklenti\bin\Debug\Word_Eklenti.vsto
+C:\Users\AYDENİZ\Source\Repos\Word_Eklenti\Word_Eklenti\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\AYDENİZ\Source\Repos\Word_Eklenti\Word_Eklenti\obj\Debug\Word_Eklenti.Properties.Resources.resources
+C:\Users\AYDENİZ\Source\Repos\Word_Eklenti\Word_Eklenti\obj\Debug\Word_Eklenti.Ribbon1.resources
+C:\Users\AYDENİZ\Source\Repos\Word_Eklenti\Word_Eklenti\obj\Debug\Word_Eklenti.csproj.GenerateResource.cache
+C:\Users\AYDENİZ\Source\Repos\Word_Eklenti\Word_Eklenti\obj\Debug\Word_Eklenti.csproj.CoreCompileInputs.cache
+C:\Users\AYDENİZ\Source\Repos\Word_Eklenti\Word_Eklenti\obj\Debug\Word_Eklenti.csproj.CopyComplete
+C:\Users\AYDENİZ\Source\Repos\Word_Eklenti\Word_Eklenti\obj\Debug\Word_Eklenti.dll
+C:\Users\AYDENİZ\Source\Repos\Word_Eklenti\Word_Eklenti\obj\Debug\Word_Eklenti.pdb
+C:\Users\AYDENİZ\Source\Repos\Word_Eklenti\Word_Eklenti\obj\Debug\Word_Eklenti.UserControl1.resources
+C:\Users\AYDENİZ\Source\Repos\Word_Eklenti\Word_Eklenti\obj\Debug\Word_Eklenti.csproj.AssemblyReference.cache
+C:\Users\AYDENİZ\Source\Repos\Word_Eklenti\Word_Eklenti\bin\Debug\Centivus.EnglishStemmer.dll
+C:\Users\AYDENİZ\Source\Repos\Word_Eklenti\Word_Eklenti\bin\Debug\nunit.framework.dll
+C:\Users\AYDENİZ\Source\Repos\Word_Eklenti\Word_Eklenti\bin\Debug\nunit.framework.xml

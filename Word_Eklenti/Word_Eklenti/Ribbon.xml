@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<customUI onLoad="Ribbon_Load" xmlns="http://schemas.microsoft.com/office/2006/01/customui">
+    <ribbon>
+        <tabs>
+            <tab idMso="TabAddIns">
+                <group id="group1" label="group1">
+                    <button id="btnSafe_as_PDF" imageMso="FileSaveAsPdfOrXps" onAction="button1_Click" label="Ozet" size="large" />
+                </group>
+                <group id="group2" label="group1" />
+            </tab>
+        </tabs>
+    </ribbon>
+</customUI>
